@@ -1,0 +1,22 @@
+.bg{
+ 
+  text-align: center;
+}
+.h1{
+  font-weight: 100;
+  font-style: italic;
+  color: rgb(212, 48, 157);
+}
+.button:hover {
+  color:aliceblue;
+  background: blue;
+}
+*{
+  background-color: rgb(236, 209, 142,);
+}
+#quiz{
+   text-decoration: underline;
+}
+div h1,p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
