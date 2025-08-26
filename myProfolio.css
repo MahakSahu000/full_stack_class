@@ -1,0 +1,11 @@
+.heading{
+     text-align: center;
+     color: rgb(98, 0, 255);
+}
+.para{
+ font-size: larger;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.div{
+  background-color: rgba(224, 44, 194, 0.3);
+}
